@@ -40,3 +40,23 @@ border: 1px solid #EEE;
 margin: 5px 0px;
 }
 
+.rfooter{
+margin:20px 0px;
+float:right;
+overflow:hidden;
+}
+.lfooter{
+margin:20px 0px;
+float:left;
+overflow:hidden;
+}
+.lfooter a{
+font-size:20px;
+margin-right:45px;
+}
+.rfooter a{
+font-size:20px;
+margin-left:45px;
+}
+
+
