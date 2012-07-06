@@ -1,0 +1,42 @@
+body{
+padding-top:70px;
+background-image:url('images/grid_noise.png');
+
+}
+
+.leader{
+border-radius: 13px;
+border: solid 1px #DDD;
+padding: 20px 10px;
+background-color:rgba(0,0,0,0.05);
+margin-bottom:40px;
+
+
+}
+
+hr{
+margin-left:7px;
+margin-right:87px;
+broder:solid 1px rgba(0,0,0,0.05);
+
+}
+
+.actions{
+text-align:center;
+margin-top:5px;
+border-top:rgba(0,0,0,0.05);
+
+}
+
+.btn-large {
+padding: 9px 83px !important;
+}
+
+h3{
+text-decoration:underline;
+}
+footer hr{
+border: 1px solid #EEE;
+margin: 5px 0px;
+}
+
